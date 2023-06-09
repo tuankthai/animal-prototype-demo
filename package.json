@@ -1,0 +1,14 @@
+{
+  "name": "animal-prototype-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenges.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
